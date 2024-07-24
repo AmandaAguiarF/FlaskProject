@@ -1,0 +1,4 @@
+Instalação Biblioteca Venv pelo terminal 
+
+python -m venv .venv 
+.\.venv\Scripts\activate (abrir o prompt de comando e inserir esse código se não entrar diretamente na biblioteca)

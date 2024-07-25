@@ -1,4 +1,18 @@
-Instalação Biblioteca Venv pelo terminal 
+1) Instalação Biblioteca Venv pelo terminal 
 
 python -m venv .venv 
 .\.venv\Scripts\activate (abrir o prompt de comando e inserir esse código se não entrar diretamente na biblioteca)
+pip install Flask
+
+
+2) Comando para guardar tudo o que precisar ter no ambiente para o desenvolvimento do projeto
+
+3) pip freeze > requirements.txt
+
+Instalação do SQLALCHEMY
+
+pip install flask_sqlalchemy
+
+
+
+crtl + c
